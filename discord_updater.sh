@@ -33,4 +33,4 @@ else
 fi
 
 export DISPLAY=$DISPLAY_BACKUP
-~/.discord/Discord
+~/.discord/Discord "$@"
